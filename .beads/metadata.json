@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "temporal_sdk_erlang",
+  "project_id": "d08940ba-52c0-4443-aa2b-dba4a4f72652"
+}
